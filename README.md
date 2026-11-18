@@ -8,7 +8,7 @@ Sirve para dar **integridad verificable** (evidencia de alteración) a cualquier
 
 ## Requisitos
 
-- .NET 8 o .NET 10 (la librería compila para ambos; se recomienda .NET 10, ya que .NET 8 está fuera de soporte desde noviembre de 2026).
+- .NET 11.
 
 ## Estructura
 
